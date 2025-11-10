@@ -14,3 +14,20 @@ p, li, a {
 .pilt {
   border: 6px solid darkred;
 }
+
+.mangijad {
+  border-collapse: collapse;
+  width: 60%;
+  margin: 20px auto;
+}
+.mangijad th {
+  background-color: darkred;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border: 1px solid #333;
+}
+.mangijad td {
+  padding: 10px;
+  border: 1px solid #333;
+}
